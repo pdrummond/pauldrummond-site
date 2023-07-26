@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import matter from "gray-matter";
 import Quote from "@/types/Quote";
 import { getRandomInt } from "@/utils/getRandomInt";
@@ -18,7 +19,7 @@ export function getRandomQuote(): Quote {
 
 export function getRandomQuoteSlug(): string {
   const folder = "quotes/";
-  const files = fs.readdirSync(folder);
+  const files = fs.readdirSync(path.resolve(process.cwd(), folder));
   const quotes = files.filter((file) => file.endsWith(".md"));
   const randomIdx = getRandomInt(files.length);
   const randomQuoteFile = quotes.at(randomIdx) || "quote_001.md";

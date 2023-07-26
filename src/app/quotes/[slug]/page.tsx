@@ -1,5 +1,6 @@
 import DotLink from "@/components/DotLink";
 import QuoteCard from "@/components/QuoteCard";
+import RefreshQuoteLink from "@/components/RefreshQuoteLink";
 import { getAllQuoteSlugs, getQuote } from "@/data/quotes";
 
 export async function generateStaticParams() {
@@ -15,6 +16,7 @@ export default function QuotePage(props: any) {
     <div>
       <DotLink />
       <QuoteCard quote={quote} />
+      <RefreshQuoteLink />
     </div>
   );
 }

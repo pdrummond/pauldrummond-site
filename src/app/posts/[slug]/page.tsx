@@ -13,7 +13,7 @@ export default function PostPage(props: any) {
   return (
     <div>
       <PostDetailHeader post={post} />
-      <article className="prose prose-stone max-w-none">
+      <article className="prose prose-stone max-w-none pt-5">
         <Markdown>{post.content}</Markdown>
       </article>
     </div>

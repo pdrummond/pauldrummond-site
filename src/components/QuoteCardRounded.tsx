@@ -11,7 +11,7 @@ export default function QuoteCardRounded({ quote }: Props) {
       <figure className="max-w-screen-md mx-auto text-center colourful-background p-32 rounded-3xl">
         <Link href={`/quotes/${quote.slug}`}>
           <svg
-            className="w-10 h-10 mx-auto mb-3 text-gray-400 dark:text-gray-600"
+            className="w-10 h-10 mx-auto mb-3 text-gray-400"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             fill="currentColor"
@@ -21,15 +21,13 @@ export default function QuoteCardRounded({ quote }: Props) {
           </svg>
         </Link>
         <blockquote>
-          <p className="text-4xl italic font-bold text-gray-600 dark:text-white">
+          <p className="text-4xl italic font-bold text-gray-600">
             {quote.content}
           </p>
         </blockquote>
         <figcaption className="flex items-center justify-center mt-6 space-x-3">
-          <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
-            <cite className="pr-3 font-medium text-gray-900 dark:text-white text-xl">
-              {quote.cite}
-            </cite>
+          <div className="flex items-center divide-x-2 divide-gray-500">
+            <cite className="pr-3 font-medium text-gray-900">{quote.cite}</cite>
           </div>
         </figcaption>
       </figure>

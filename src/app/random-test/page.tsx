@@ -1,6 +1,6 @@
 import { getRandomInt } from "@/utils/getRandomInt";
 
-//export const revalidate = 0;
+export const revalidate = 0;
 
 export default function RandomPage() {
   return (

@@ -4,6 +4,8 @@ import PostPreview from "@/components/PostPreview";
 import { getPostsMetaData } from "@/data/posts";
 import { getQuote, getRandomQuoteSlug } from "@/data/quotes";
 
+export const revalidate = 0;
+
 export default function Home() {
   const postMetadata = getPostsMetaData();
   const slug = getRandomQuoteSlug();

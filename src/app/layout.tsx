@@ -6,7 +6,6 @@ const font = Exo({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Paul Drummond",
-  description: "Made with Next.js",
 };
 
 interface Props {

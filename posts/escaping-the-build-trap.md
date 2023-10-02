@@ -1,10 +1,8 @@
 ---
 title: "Escaping the Build Trap (Book Notes)"
 subtitle: "Excerpts I liked from Escaping the Build Trap by Melissa Perri"
-date: "2023-10-01"
+date: "2023-10-02"
 ---
-
-_Note: This is a work in progress as I haven't finished reading the book yet._
 
 1. P1 - The build trap is when organisations become stuck measuring their success by outputs rather than outcomes.
 2. P5 - Your company is not set up for that type of feedback. People are afraid to talk with you or their managers. You tie people’s bonuses to shipping software, not to solving problems.
@@ -51,11 +49,49 @@ _Note: This is a work in progress as I haven't finished reading the book yet._
 43. P82 - Instead of dictating solutions to the teams, leadership should be focused on creating strategic intents.
 44. P84 - The strategic intents are about the whole company, not just the product solution.
 45. P99 - Don’t spend your time over designing and creating unique, innovative solutions for things that are not core to your value proposition.
-46. ***
-47. P169 - People will get in the way of a good product every time. Even if it is the best idea for the company, if it doesn’t meet the personal agendas of senior stakeholders it can be squashed.
-48. P170 - The truth is that most organisations out there are not product-led. And yet, being product-led is a winning strategy.
-49. P170 - If you look at some of the best companies today, they are not reactively building whatever customer request comes their way. They are not following Agile processes blindly to build whatever features they can, as fast as they can. Instead, they are developing products with the intent to deliver value to their customers.
-50. P170 - Product led companies do not just build things for the sake of checking boxes. They build things to further their business.
-51. P173 - a good product manager knows that getting buy-in from the whole team is crucial.
-52. P173 - it's a bad sign when product managers are seen as weak in the organisation because they are beaten down by stakeholders and management.
-53. P173 - when product managers are seen as project managers, they hold no decision making power. Stakeholders and management use them to just usher their own ideas through. Product managers don't feel like they can say no because of the potential for strong backlash.
+46. P104 - It’s easy to become stuck measuring the wrong things. Frequently, teams turn to measuring what we call vanity metrics. This concept, introduced in Lean Startup, is about goals that look shiny and impressive because they always get bigger. People are excited to share how many users are their product, how many daily views they have, or how many logins their system has.
+47. P105 - You can easily turn a vanity metric into an actionable metric by adding a time component to it.
+48. P105 - I often see product teams measuring output-oriented metrics, such as the number of features shipped, story points complete, or user stories worked on. Although these are good productivity metrics, they are not product metrics. They cannot tie the results of the product development back to the business.
+49. P111 - Product managers are often spoken about as the “voice of the customer”, yet too many of us are not getting out and talking to customers as much as we should.
+50. P111 - It’s essential that we all go talk to actual humans to get to the heart of their problems.
+51. P111 - User research is not to be mistaken for usability testing. Usability testing is showing a prototype or website and directing people to complete actions.
+52. P111 - Problem-based user research is generative research, meaning that its purpose is to find the problem you want to solve.
+53. P111 - It’s easy to fall into the trap of solving problems before you find their root causes. We’re all prone to problem solving, even if we don’t know what the problem is. Our brains love thinking in terms of solutions.
+54. P114 - In many companies, it’s difficult - or even impossible - to talk to the customer, usually due to corporate bureaucracy. IN these situations, you need to get creative.
+55. P114 - In a B2B environment, you can work with the sales or account managers to have them be your research spies - asking the questions you might need to know during their sales calls or follow-up meetings.
+56. P115 - Remember, it’s not the customer’s job to solve their own problems. It’s your job to ask them the right questions.
+57. P116 - This type of thinking is exactly what lands us in the build trap. When we use an MVP only to get a feature out quicker, we’re usually cutting corners on a great experience in the process.
+58. P116 - The most important piece of the MVP is the learning.
+59. P116 - Due to the misconception of this term, I have stopped using MVP altogether. Instead, I talk more about solution experimentation.
+60. P126 - When I introduce the concept of experimenting to learn, I am frequently met by the same response: “That sounds nice, but we just can’t do that here.”
+61. P126 - Making known the unknowns reduces risk, and that goes for large, bureaucratic companies like banks, as well as for industries with long product development timelines like aviation.
+62. P126 - There is no excuse for not learning.
+63. P126 - Even the most seemingly Waterfall projects can be experimental. Consider developing a space shuttle. Even though it takes years to build this complex system, and it involves hardware, there are still possible experiments along the way.
+64. P129 - Learning reduces risk. The goal of solution exploration is to get faster feedback.
+65. P130 - Internal tools are often neglected, but they still matter to the company. They need to be treated the same way as any other product.
+66. P139 - Although “Definition of Done” is definitely a useful concept to make sure the team finished what it needs to do, it sets the wrong expectation about what a finished feature is.
+67. P139 - We are done developing or iterating on a feature only when it has reached its goals. Often, teams ship a first version of the feature and then move onto the next, without measuring the outcomes for the user.
+68. P139 - Instead, teams should be setting the success criteria before launch, while measuring and iterating until they reach it.
+69. P139 - If we launch the feature and it's not hitting its goals, we need to be comfortable rolling it back and trying something else.
+70. P147 - Marquetly was a classic example of a company stuck in the build trap. It was project-oriented, spinning up team to tackle whatever was prioritised by the CEO. There were no product managers in the organisation. Teams never talked to customers and were rewarded for shipping finished software.
+71. P148 - That is usually where companies get stuck in the build trap. They are not patient enough to see outcomes emerge, so they instead measure progress by the number of features shipped.
+72. P155 - It would shock you the number of times I’ve heard product managers say “It doesn't matter what the goal is. We just have to deliver this feature”. These are the good product managers, too. They want to build great products - they just don’t believe they can do so in their current environment. They are being forced into the build trap by company policy, even when they know it's the wrong way to build things.
+73. P156 - Tying livelihoods to the fact that you shipped product at all, instead of learning or solving problems for customers, is what gets people into the build trap.
+74. P156 - Even though it’s difficult to change many of the policies, if you don’t have the right seniority, you can still try to change the minds of the people who can bring those messages up the chain. This can start the right dialogue.
+75. P157 - I’ve worked on teams that had a sales department which oversold the roadmaps so much that we were two years behind in development. Customers were angry, and we had high churn. I also saw sales teams target the wrong customers in order to make the numbers. These customers left quickly.
+76. P157 - If you are a leader at a company, it’s time to reevaluate how you are incentivising people. You should be rewarding people for moving the business forward - achieving outcomes, learning about your users, and finding the right business opportunities.
+77. P159 - Product managers need to have a certain amount of trust from the organisation to have room to explore different options.
+78. P159 - With the rise of Lean Startup, we began to focus on outcomes, yes, but we also started to celebrate failure. I want to be clear here: it is not success if you fail and do not learn.
+79. P159 - Learning should be at the core of every product-led organisation. It should be what drives us as an organisation.
+80. P159 - It’s better to fail in smaller ways, earlier, and to learn what will succeed, rather than spending all the time and money failing in a publicly large way. This is why we have problem and solution exploration in product management - to de-risk failing in the market.
+81. P160 - Netflix could have tested the waters with Qwikster. Instead, it went in full force on an idea that hadn’t been validated.
+82. P160 - So many companies fail slowly. They release products and never measure whether those products do anything. They just let them sit there, collecting dust in a sea of endless features, never knowing whether they are producing value.
+83. P160 - Instead, if you adopt a great product mindset and you give people the freedom to fail, what you’re doing is allowing them to fail quickly, quietly, and at a lower cost because they’re testing things early. That’s the type of failure you want to encourage. That’s the type of failure from which we can recover.
+84. P166 - This is what it means to be customer centric: knowing that the most important thing you can do to create great products is to deeply understand your customers. This is also the core of what it means to be product-led.
+85. P169 - People will get in the way of a good product every time. Even if it is the best idea for the company, if it doesn’t meet the personal agendas of senior stakeholders it can be squashed.
+86. P170 - The truth is that most organisations out there are not product-led. And yet, being product-led is a winning strategy.
+87. P170 - If you look at some of the best companies today, they are not reactively building whatever customer request comes their way. They are not following Agile processes blindly to build whatever features they can, as fast as they can. Instead, they are developing products with the intent to deliver value to their customers.
+88. P170 - Product led companies do not just build things for the sake of checking boxes. They build things to further their business.
+89. P173 - A good product manager knows that getting buy-in from the whole team is crucial.
+90. P173 - It's a bad sign when product managers are seen as weak in the organisation because they are beaten down by stakeholders and management.
+91. P173 - When product managers are seen as project managers, they hold no decision making power. Stakeholders and management use them to just usher their own ideas through. Product managers don't feel like they can say no because of the potential for strong backlash.

@@ -1,5 +1,5 @@
 ---
-cite: Navel Ravikant
+cite: Naval Ravikant
 ---
 
 When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.

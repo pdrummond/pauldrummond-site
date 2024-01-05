@@ -37,3 +37,20 @@ export function getQuote(slug: string): Quote {
     slug,
   };
 }
+
+export function getQuotesMetaData(): Quote[] {
+  const folder = "quotes/";
+  const files = fs.readdirSync(folder);
+  const markdownQuotes = files.filter((file) => file.endsWith(".md"));
+
+  const quotes = markdownQuotes.map((fileName) => {
+    const fileContents = fs.readFileSync(`quotes/${fileName}`, "utf8");
+    const matterResult = matter(fileContents);
+    return {
+      cite: matterResult.data.cite,
+      content: matterResult.content,
+      slug: getSlug(fileName),
+    };
+  });
+  return quotes;
+}

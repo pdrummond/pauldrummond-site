@@ -1,16 +1,17 @@
 import Header from "@/components/Header";
-import PostPreview from "@/components/PostPreview";
-import { getPostsMetaData } from "@/data/posts";
+import QuotePreview from "@/components/QuotePreview";
+import { getQuotesMetaData } from "@/data/quotes";
 
 export default function Home() {
-  const postMetadata = getPostsMetaData();
+  const quotesMetadata = getQuotesMetaData();
+
   return (
     <main>
       <div className="mx-auto max-w-3xl max-sm:max-w-sm max-lg:max-w-lg">
         <Header />
         <div className="pt-8 grid gap-10">
-          {postMetadata.map((post) => (
-            <PostPreview key={post.slug} post={post} />
+          {quotesMetadata.map((quote) => (
+            <QuotePreview key={quote.slug} quote={quote} />
           ))}
         </div>
       </div>

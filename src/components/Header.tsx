@@ -23,8 +23,8 @@ export default function Header() {
       </div>
       <div className="flex justify-center gap-4 text-gray-300 items-center">
         <Link
-          title="Random Quote"
-          href="/random-quote"
+          title="My favourite life quotes"
+          href="/quotes"
           className="hover:text-orange-400"
         >
           <FaQuoteRight size="1.2em" />

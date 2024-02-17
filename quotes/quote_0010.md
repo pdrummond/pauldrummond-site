@@ -2,4 +2,4 @@
 cite: Bertrand Russell
 ---
 
-Love is wise, hatred is foolish
+Love is wise, hatred is foolish.

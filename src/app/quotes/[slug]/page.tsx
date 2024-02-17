@@ -1,4 +1,4 @@
-import DotLink from "@/components/DotLink";
+import HomeIcon from "@/components/HomeIcon";
 import QuoteCard from "@/components/QuoteCard";
 import QuoteCardLink from "@/components/QuoteCardLink";
 
@@ -15,9 +15,9 @@ export default function QuotePage(props: any) {
 
   return (
     <div>
-      <DotLink />
-      <QuoteCard quote={quote} />
+      <HomeIcon />
       <QuoteCardLink slug={slug} />
+      <QuoteCard quote={quote} />
     </div>
   );
 }

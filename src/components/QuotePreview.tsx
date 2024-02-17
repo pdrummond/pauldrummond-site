@@ -8,17 +8,18 @@ interface Props {
 export default function QuotePreview({ quote }: Props) {
   return (
     <div className="p-5">
-      <h1 className="text-2xl text-slate-800 text-bold">
-        <Link
-          href={`/quote-card/${quote.slug}`}
-          className="font-bold hover:underline"
-        >
+      <h1 className="text-2xl text-slate-800 text-bold hover:text-blue-500">
+        <Link href={`/quote-card/${quote.slug}`} className="font-bold">
           {quote.content}
         </Link>
       </h1>
-      <p title={quote.slug} className="text-sm text-slate-600 mt-2 mb-5">
+      <p
+        title={quote.slug}
+        className="text-sm text-slate-600 mt-2 mb-5 text-right"
+      >
         {quote.cite}
       </p>
+      <hr />
     </div>
   );
 }

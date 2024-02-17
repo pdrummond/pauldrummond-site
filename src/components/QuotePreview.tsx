@@ -9,7 +9,7 @@ export default function QuotePreview({ quote }: Props) {
   return (
     <div className="p-5">
       <h1 className="text-2xl text-slate-800 text-bold hover:text-blue-500">
-        <Link href={`/quote-card/${quote.slug}`} className="font-bold">
+        <Link href={`/quotes/${quote.slug}`} className="font-bold">
           {quote.content}
         </Link>
       </h1>

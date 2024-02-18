@@ -1,5 +1,5 @@
 ---
-cite: Gerald Weinberg
+cite: Meher Baba
 ---
 
-No matter how it looks at first, it's always a people problem.
+Man minus mind equals God.

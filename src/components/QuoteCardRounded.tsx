@@ -7,7 +7,7 @@ interface Props {
 export default function QuoteCardRounded({ quote }: Props) {
   return (
     <div className="grid h-screen place-items-center p-10">
-      <figure className="max-w-screen-md mx-auto text-center colourful-background p-32 rounded-3xl">
+      <figure className="max-w-screen-md mx-auto text-center colourful-background p-12 rounded-3xl">
         <svg
           className="w-10 h-10 mx-auto mb-3 text-gray-400"
           aria-hidden="true"

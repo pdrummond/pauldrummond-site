@@ -1,0 +1,5 @@
+---
+cite: John Lennon
+---
+
+Life is what happens when you are busy making other plans.

@@ -1,5 +1,5 @@
 ---
-cite: Carl Jung
+cite: Jed McKenna
 ---
 
-What you resist, persists.
+Nobody acts from contentment. We need problems or we vegetate.

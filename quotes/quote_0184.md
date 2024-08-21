@@ -1,5 +1,5 @@
 ---
-cite: Dr. Edith Eger
+cite: Rumi
 ---
 
-The opposite of depression is expression. What comes out of you doesn't make you sick; what stays in there does.
+When you do things from your soul, you feel a river moving in you, a joy.

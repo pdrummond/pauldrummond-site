@@ -1,7 +1,5 @@
 ---
-cite: Rumi
+cite: Dr. Edith Eger
 ---
 
-When you do things from your soul, you feel a river moving in you, a joy.
-
-​
+The opposite of depression is expression. What comes out of you doesn't make you sick; what stays in there does.

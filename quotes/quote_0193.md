@@ -1,5 +1,5 @@
 ---
-cite: Harun Yahya
+cite: C.S. Lewis
 ---
 
-I always wonder why birds choose to stay in the same place when they can fly anywhere on the earth, then I ask myself the same question.
+We say that people are proud of being rich, or clever, or good-looking, but they are not. They are proud of being richer, or cleverer, or better-looking than others. If everyone else became equally rich, or clever, or good-looking, there would be nothing to be proud about.

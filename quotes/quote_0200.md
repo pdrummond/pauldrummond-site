@@ -1,5 +1,5 @@
 ---
-cite: Anon
+cite: Werner Heisenberg
 ---
 
-Whoever is trying to bring you down is already below you.
+The only thing we are absolutely certain about is that nothing is certain.

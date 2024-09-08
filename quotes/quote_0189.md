@@ -1,5 +1,5 @@
 ---
-cite: Bill Phillips
+cite: Epititus
 ---
 
-Exercise is the most underutilised antidepressant and food is the most overused drug.
+We cannot step twice into the same river.

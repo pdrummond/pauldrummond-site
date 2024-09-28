@@ -1,5 +1,5 @@
 ---
-Cite: Bob Marley
+cite: Bob Marley
 ---
 
 Needing nothing attracts everything.

@@ -1,5 +1,5 @@
 ---
-cite: Abraham Lincoln
+cite: Khalil Gibran
 ---
 
-I don't like that man. I must get to know him better.
+Our anxiety does not come from thinking about the future, but from wanting to control it.

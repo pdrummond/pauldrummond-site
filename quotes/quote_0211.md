@@ -1,5 +1,5 @@
 ---
-cite: Seneca
+cite: Gerald Kersh
 ---
 
-No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself.
+There are men whom one hates until a certain moment when one sees, through a chink in their armour, the writhing of something nailed down and in torment.

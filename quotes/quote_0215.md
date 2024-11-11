@@ -1,5 +1,5 @@
 ---
-cite: Marcus Aurelius
+cite: Which That Hanh
 ---
 
-It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.
+People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar

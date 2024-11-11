@@ -1,5 +1,5 @@
 ---
-cite: Oscar Wilde
+cite: Viktor Frankl
 ---
 
-Always forgive your enemies; nothing annoys them so much.
+In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.

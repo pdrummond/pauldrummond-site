@@ -1,5 +1,5 @@
 ---
-cite: Naval Ravikant
+cite: Marcus Aurelius
 ---
 
-If you can’t be happy with a coffee, you won’t be happy with a yacht
+Be tolerant with others and strict with yourself.

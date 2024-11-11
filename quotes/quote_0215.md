@@ -1,5 +1,5 @@
 ---
-cite: Which That Hanh
+cite: Seneca
 ---
 
-People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar
+No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself.

@@ -1,5 +1,5 @@
 ---
-cite: Elon Musk
+cite: Arthur Schopenhauer
 ---
 
-Freedom of speech is only relevant when people you don't like say things you don't like. Otherwise it has no meaning.
+Life swings like a pendulum backward and forward between pain and boredom.

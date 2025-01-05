@@ -16,6 +16,7 @@ date: "2023-10-02"
 1. P15 - Sales-led companies let their contracts define their product strategy.
 1. P16 - The problem is that Technology-led companies often suffer from a lack of market-facing, value-led strategy.
 1. P17 - Product-led companies optimise for their business outcomes, align their product strategies to these goals, and then prioritise the most effective projects that will help develop those products into sustainable drivers of growth.
+1. P19 - Product management is the domain of recognizing and investigating the "known unknowns" and of reducing the universe around the "unknown unknowns". Anyone can run with solutions based on "known knowns". Those facts are readily available. But it takes a certain skill to be able to sift through the massive amounts of information and to identify the right questions to ask and when to ask them.
 1. P20 - Product managers are the key to becoming product-led. Yet so many companies put people without these capabilities into this role.
 1. P29 - Project managers who are put into product management roles often become waiters waving a calendar.
 1. P29 - Product managers are not project managers, although a little project management is needed to execute on the role correctly.

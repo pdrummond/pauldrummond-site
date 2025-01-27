@@ -1,8 +1,8 @@
 ---
-title: "Bottom Up Development - Embracing Change (2007)"
+title: "Bottom Up Development - Embracing Change"
 subtitle: "This is a re-post from back in 2007 when I was just starting to get interested a
 mysterious language called Lisp!"
-date: "2024-11-06"
+date: "2024-11-03"
 ---
 
 <i>Originally posted on Tuesday 11 December 2007 [here](http://goldfish-geek.blogspot.com/2007/12/bottom-up-development-embracing-change.html).</i>

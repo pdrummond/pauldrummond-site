@@ -1,7 +1,7 @@
 ---
 title: "Escaping the Build Trap (Book Notes)"
 subtitle: "Excerpts I liked from Escaping the Build Trap by Melissa Perri"
-date: "2023-10-02"
+date: "2025-01-10"
 ---
 
 1. P1 - The build trap is when organisations become stuck measuring their success by outputs rather than outcomes.

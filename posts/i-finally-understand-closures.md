@@ -1,7 +1,7 @@
 ---
 title: "I Finally Understand Closures! (2008)"
 subtitle: 'This is a re-post from 2008 when I had an "aha" moment and finally groked closures'
-date: "2019-09-03"
+date: "2024-11-02"
 ---
 
 <i>Originally posted 15th July 2008 [here](https://www.reddit.com/r/programming/comments/6rx18/i_finally_understand_closures/)</i>.

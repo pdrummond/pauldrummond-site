@@ -3,7 +3,7 @@ title: "Confusion with Immutability (2008)"
 subtitle: "Back in 2008, I wrote a post on the Clojure Google Group back when I was
 trying to wrap myself around the idiomatic use of state and mutability in a
 functional language like Clojure."
-date: "2020-05-09"
+date: "2024-11-01"
 ---
 
 Here is the post in full:

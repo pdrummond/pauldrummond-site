@@ -1,7 +1,7 @@
 ---
 title: "React NextJS app using Prisma and Postgres (Part 1)"
 subtitle: "Part 1 of a React tutorial on how to create a CRUD webapp using Next.js 13, Prisma and Postgres."
-date: "2023-07-20"
+date: "2025-01-07"
 ---
 
 <!-- end -->

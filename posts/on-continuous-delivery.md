@@ -2,7 +2,7 @@
 title: "On Continuous Delivery"
 subtitle: "I've been using continuously delivery for over 4 years now. Here's
 what I've learned along the way."
-date: "2020-10-12"
+date: "2025-01-20"
 ---
 
 ### Debunking some myths right off the bat

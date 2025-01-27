@@ -1,23 +1,26 @@
 ---
 title: "Tech Quotes"
-date: "2022-04-25"
+subtitle: A collection of my favourite tech quotes
+date: "2025-01-27"
 draft: true
 ---
-
-A collection of tech quotes that I keep adding to as I discover more!
-
-<!-- end -->
 
 > Programming is a way of thinking, not a rote skill. Learning about "for" loops
 > is not learning to program, any more than learning about pencils is learning
 > to draw.
 > <br/>-- <cite>Bret Victor</cite>
 
+---
+
 > There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 > <br/>-- <cite>Bjarne Stroustrup</cite>
 
+---
+
 > In order to understand recursion, you must first understand recursion.
 > <br/>-- <cite>ANNON</cite>
+
+---
 
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates
 > don’t change, no matter what some bad class libraries may cause you to
@@ -26,13 +29,19 @@ A collection of tech quotes that I keep adding to as I discover more!
 > different set.
 > <br/>-- <cite>Rich Hickey on State and Identity</cite>
 
+---
+
 > The problem with object-oriented languages is they’ve got all this implicit
 > environment that they carry around with them. You wanted a banana but what you
 > got was a gorilla holding the banana and the entire jungle.
 > <br/>-- <cite>Joe Armstrong, interviewed in Coders at Work</cite>
 
+---
+
 > Programming is not about typing, it’s about thinking.
 > <br/>-- <cite>Rich Hickey</cite>
+
+---
 
 > The programmer, like the poet, works only slightly removed from pure
 > thought-stuff. He builds castles in the air, from air, creating by exertion of
@@ -40,5 +49,22 @@ A collection of tech quotes that I keep adding to as I discover more!
 > rework, so readily capable of realizing grand conceptual structures.
 > <br/>-- <cite>Fred Brooks, The Mythical Man-Month</cite>
 
+---
+
 > Someday, not being proficient with computers will be considered a form of illiteracy.
 > <br/>-- <cite>Naval Ravikant</cite>
+
+---
+
+> One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.
+> <br/>-- <cite>Steve Jobs</cite>
+
+---
+
+> Technology is a word that describes something that doesn’t work yet.
+> <br/>-- <cite>Douglas Adams</cite>
+
+---
+
+> Nothing is as permanent as a temporary solution that works
+> <br/>-- <cite>Milton Friedman</cite>
